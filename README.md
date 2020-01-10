@@ -1,2 +1,3 @@
 # w82samplerepo
-Sample repository 
+Sample repository
+Bears Beets Battlestar Galactica
